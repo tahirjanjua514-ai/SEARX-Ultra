@@ -1,0 +1,6 @@
+{
+  "name": "SEARX AI ULTRA PRO",
+  "description": "Professional multi-profile browser management, proxy engine, fingerprint configuration, visual RPA workflows, and automated navigation desktop suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
